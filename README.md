@@ -1,3 +1,4 @@
+# This code is powered by Amazon Q Cli
 # 番茄钟应用
 
 一个基于 Vue 3 + Vite 构建的现代化番茄钟应用，帮助你提高工作效率和时间管理能力。
