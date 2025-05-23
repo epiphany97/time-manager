@@ -2,7 +2,8 @@
 
 一个基于 Vue 3 + Vite 构建的现代化番茄钟应用，帮助你提高工作效率和时间管理能力。
 ## UI 展示
-![Uploading 截屏2025-05-23 19.02.40.png…]()
+
+<img width="973" alt="截屏2025-05-23 19 02 40" src="https://github.com/user-attachments/assets/c66c4d98-3483-462f-adce-52c2c9582c77" />
 
 
 ## 功能特点
